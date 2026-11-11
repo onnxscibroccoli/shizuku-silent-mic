@@ -1,5 +1,8 @@
 # Shizuku Silent Mic
 
+
+> **Project reviewer:** [Current evidence classification and ordered remediation](docs/PORTFOLIO_READINESS.md) · [tracking issue](https://github.com/onnxscibroccoli/shizuku-silent-mic/issues/1). No unsupported production or professional-experience claims.
+
 **Status:** Empty repository / reserved project name  
 **Documentation snapshot:** 2026-09-28 23:12 EDT
 
