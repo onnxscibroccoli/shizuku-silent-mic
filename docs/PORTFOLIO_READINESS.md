@@ -22,6 +22,13 @@ This repository may demonstrate a narrow research, integration or experimental c
 3. Record test command, expected behavior, actual output category, environment/permission boundaries, and CI URL if one exists.
 4. Only publish externally reviewed sanitized evidence, respecting privacy and original-source attribution.
 
+## Evidence recorded 2026-11-11
+
+- `main` `6fe4ad8801e6e6537e51096166812d3366a3ec8f` has 3 tracked files: `README.md` and two `.omnikali/` graph notes.
+- It contains **no source code, build, or tests**.
+- No workflows and no releases.
+- All behaviour claims are concept-only. Implementation is NOT_VERIFIED.
+
 ## Resumption
 
 Follow the [local issue](https://github.com/onnxscibroccoli/shizuku-silent-mic/issues/1) and the [central public execution ledger](https://github.com/onnxscibroccoli/broccoli-core/issues/102). The latter does not disclose private project names. Review existing PRs and the current default-branch head before modifying anything. Keep the next change small and reversible; update the issue with its exact commit and test result.
